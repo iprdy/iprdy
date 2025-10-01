@@ -60,10 +60,10 @@ I am enthusiastic about expanding my skills, especially in areas that combine cr
 ---
 
 ## 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iprdygame&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprdygame&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iprdy&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprdy&layout=compact&theme=tokyonight)  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=iprdygame&style=flat-square&color=blue)  
+![Visitor Count](https://komarev.com/ghpvc/?username=iprdy&style=flat-square&color=blue)  
 
 ---
 ⭐ *Thank you for visiting my profile! Feel free to check out my repositories and leave a star if you find something interesting.*  
