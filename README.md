@@ -10,13 +10,13 @@
   <a href="mailto:iprdy.real@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/iprdy">
+  <a href="https://linkedin.com/in/iprdy" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/iprdy">
+  <a href="https://github.com/iprdy" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://discord.gg/HZf97NPRyy">
+  <a href="https://discord.gg/HZf97NPRyy" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
